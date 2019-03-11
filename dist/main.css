@@ -1,0 +1,19 @@
+html,
+body,
+#viewDiv {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+/* .sidePan {
+  margin-top: 100px;
+  position: absolute;
+  background: blueviolet;
+  z-index: 1;
+}
+
+.sidePan:hover {
+  background: red;
+} */
